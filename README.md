@@ -45,3 +45,23 @@ https://jwl-97.github.io/post/calculatorApp_20210328/
 ~~~
 <hr>
 
+### pomodoroTimerApp
+~~~
+기능
+  - SeekBar 사용
+  - CountDownTimer 사용
+  - soundPool 사용해서 timer tick, bell 소리 적용
+
+날짜 : 2021.04.05
+~~~
+<hr>
+
+### voiceRecorderApp
+~~~
+기능
+  - customView로 button, textView 만들어 사용
+  - MediaRecorder로 녹음 시각화
+
+날짜 : 2021.04.19
+~~~
+<hr>
