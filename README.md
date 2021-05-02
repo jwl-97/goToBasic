@@ -33,3 +33,15 @@ https://jwl-97.github.io/post/calculatorApp_20210328/
 날짜 : 2021.03.28
 ~~~
 <hr>
+
+### galleryApp
+~~~
+기능
+  - Timer 사용
+  - 권한 얻어오기 / 앨범 접근
+  - imageView alpha를 이용해 애니메이션 효과 구현
+
+날짜 : 2021.04.01
+~~~
+<hr>
+
