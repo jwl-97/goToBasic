@@ -65,3 +65,14 @@ https://jwl-97.github.io/post/calculatorApp_20210328/
 날짜 : 2021.04.19
 ~~~
 <hr>
+
+### famousSayingApp
+https://jwl-97.github.io/post/famousSayingApp_20210515/
+~~~
+기능
+  - AWS Remote Config 사용해서 데이터(명언, 이름) 적용
+  - PagerAdapter getItemCount()를 변형해 무한 페이지네이션처럼 보이게 사용
+
+날짜 : 2021.05.15
+~~~
+<hr>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1088411009304",
+    "project_id": "famoussayingapp",
+    "storage_bucket": "famoussayingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088411009304:android:09b02b1b63d638d1781e6d",
+        "android_client_info": {
+          "package_name": "com.ljw.famoussayingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088411009304-bjjqq9fgv3qnrpd91h484cuqk1dtv236.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEQjIfNr27s3NQytUvmr15IAwT9m10ehY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088411009304-bjjqq9fgv3qnrpd91h484cuqk1dtv236.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
